@@ -17,4 +17,5 @@ Call `run_kexploit` with a valid `coreinit_handle`, aftwards you can use the ker
  - Relys
  - NWPlayer123
  - Mathew_Wi
+ - Kinnay: for the KernelCopyData function
 
